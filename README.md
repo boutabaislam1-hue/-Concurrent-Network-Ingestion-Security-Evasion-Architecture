@@ -9,7 +9,7 @@ This repository contains the strategic network infrastructure design and attack 
 ## 🛠️ System Architecture Diagram
 Below is the structural visualization of the routing pathways, firewall filters, and concurrent execution nodes.
 
-![Network Attack Topology](./network_topology.png)
+![Network Attack Topology](./Network_Topology.png)
 
 ---
 
